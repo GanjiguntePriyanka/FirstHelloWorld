@@ -1,2 +1,2 @@
-A test from feature1 - green
+A test from feature1 - yellow
 comment from feature2
